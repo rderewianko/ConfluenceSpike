@@ -1,0 +1,1 @@
+curl -D- -X GET -H "Authorization: Basic Z2VvcmdlLnRyb3VnaHRvbkBwcnVkZW50aWFsLmNvLnVrOkBBcXVhMjAxNw==" -H "Content-Type: application/json" "https://andover.atlassian.net/wiki/rest/api/content/64028702/?expand=space,body.view,version,container"
