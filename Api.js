@@ -5,7 +5,7 @@ import apisauce from 'apisauce'
 import utf8 from 'utf8';
 import binaryToBase64 from 'binaryToBase64';
 
-const text = 'george.troughton@prudential.co.uk:@Aqua2017';
+const text = 'email:password';
 const bytes = utf8.encode(text);
 const encoded = binaryToBase64(bytes);
 
